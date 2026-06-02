@@ -1,6 +1,6 @@
 # FastPay — Instant UPI Payments App
 
-FastPay is a production-ready, full-stack "Google Pay-like" UPI payment application. It provides real-time transactions, wallet management, QR code payments, merchant settlements, and a sleek, modern mobile-first UI.
+FastPay is a production-ready, full-stack "Google Pay-like" UPI payment application. It provides real-time transactions, wallet management, QR code payments, merchant settlements, and a sleek, modern mobile-first UI..
 
 ## 🌟 Features
 
